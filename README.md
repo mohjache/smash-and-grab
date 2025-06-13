@@ -33,9 +33,9 @@ Once setup you should be able to run ```pnpm run dev``` and start.
 
 ##  Todo list
 
-- [ ] Make it deploy.
-- [ ] Added landing page that doesn't need auth.
+- [x] Make it deploy.
+- [x] Added landing page that doesn't need auth.
+- [x] Add authentication.
+- [x] Add Top Nav.
 - [ ] Scaffold basic UI with mock data.
 - [ ] Attach database to UI.
-- [ ] Add authentication.
-- [ ] Add Top Nav.
