@@ -15,8 +15,11 @@ export default function HomePage() {
       <div className="bg-background text-foreground flex min-h-screen flex-col items-center justify-center">
         <div className="container mx-auto px-4 text-center">
           <h1 className="mb-4 text-4xl font-bold sm:text-5xl md:text-6xl">
-            Compete in Badminton, Win Prizes
+            Smash Hard. Win Big.
           </h1>
+          <p className="mb-8 text-lg sm:text-xl">
+            Competitive Badminton Match Making
+          </p>
         </div>
       </div>
     </>
